@@ -179,3 +179,4 @@ get good scores on tests
 checked out (貸出中)
 anthem
 national anthem
+on the fly

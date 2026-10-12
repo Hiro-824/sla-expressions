@@ -305,7 +305,7 @@ momentum
 
 work against A (Aに対して不利に働く)
 work for A (Aに対してプラスに働く)
-hold A back (Aを抑える、Aの足かせになる)
+hold A back (Aを抑える、Aの足かせになる、Aを引き止める)
 serve A (Aに対してプラスに働く)
 
 His inexperience/perfectionism may work against him.
@@ -314,3 +314,9 @@ This tendency will hold me back. (この傾向が私の足かせになるだろ�
 This tendency will serve me. (この傾向は、私にとってプラスに働くだろう。)
 
 Done is better than perfect.
+
+back down (引き下がる)
+push someone away (突き放す)
+let go of A (手放す)
+part with A (手放す)
+hold A back (引き止める)

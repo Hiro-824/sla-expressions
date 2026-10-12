@@ -260,7 +260,7 @@ heterogeneous
 uniform
 the collapse of the class society
 the class society
-a homogenous mass (均一な大衆)
+a homogenous mass (均質な大衆)
 [social group] emerge
 operate a train
 a train driver
@@ -269,3 +269,5 @@ without a conductor on board
 nationalize
 denationalize
 disciples 
+How do A and B differ in ____?
+How do A and B differ in meaning?

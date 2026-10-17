@@ -397,3 +397,11 @@ five minutes to three
 from/toは、基準点を表すために幅広く使える
 
 数字 X away
+
+model architectural structures in Blender
+Blenderで建築物を作る
+
+model 〇〇 in [a 3D modeling software]
+
+take a modular approach
+take a 〇〇 approach

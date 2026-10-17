@@ -335,3 +335,65 @@ be no big deal
 
 resent -ing
 例）resent being underestimated
+
+
+
+罪な男
+He’s such a lady killer
+He’s such a player
+
+罪な女
+She’s a tease.
+She leads men on.
+
+前に並ぶ
+line up in the front
+
+列を詰める
+squeeze in
+
+前の列の方、(呼びかけ)
+Front row,
+
+前の列
+front row
+
+Taller people in the back, shorter people in the front.
+
+列に割り込む
+cut into the queue
+
+「列」の英語
+* 複数の列が並んでいるか？
+    * はい
+        * 列同士は階段状に並んでいるか？
+            * はい
+                * tier
+            * いいえ
+                * 列同士は縦に並んでいるか？
+                    * はい（「三」みたいな感じ）
+                        * row・rank
+                    * いいえ（「Ⅲ」みたいな感じ）
+                        * column・file
+    * いいえ
+        * 何かを待っている人・物の列か？
+            * はい
+                * queue
+            * いいえ
+                * line
+
+the second column from the right
+the third row from the front
+
+a string of cars
+a chain of islands
+a series of events
+
+rank and file (平社員、下々の者たち) 集合名詞
+rank-and-file workers/members
+
+five minutes to three
+
+from/toは、基準点を表すために幅広く使える
+
+数字 X away

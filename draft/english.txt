@@ -426,3 +426,5 @@ the highest-scoring hand of cards
 dig one's own grave
 
 On what basis can A be classified as B?
+
+whatever it takes

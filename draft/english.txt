@@ -424,3 +424,5 @@ a hand of cards / dice (カード・サイコロの役＝組み合わせ)
 the highest-scoring hand of cards
 
 dig one's own grave
+
+On what basis can A be classified as B?
